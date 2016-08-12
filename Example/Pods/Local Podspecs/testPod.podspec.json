@@ -1,0 +1,22 @@
+{
+  "name": "testPod",
+  "version": "0.1.0",
+  "summary": "A short description of testPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mobisaily/testPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mobisaily": "sayali.junnarkar@mobicule.com"
+  },
+  "source": {
+    "git": "https://github.com/<mobisaily>/testPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testPod/Classes/**/*"
+}
