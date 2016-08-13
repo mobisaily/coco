@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/mobisaily/coco'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mobisaily' => 'sayali.junnarkar@mobicule.com' }
-  s.source           = { :git => 'https://github.com/<mobisaily>/coco.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mobisaily/coco.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
